@@ -1,0 +1,12 @@
+// desktop.ini
+.DS_Store
+.ini
+
+// ignorar backups
+Backup/
+
+
+
+
+
+
